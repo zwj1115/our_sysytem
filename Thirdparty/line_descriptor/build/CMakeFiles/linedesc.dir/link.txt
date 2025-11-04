@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/liblinedesc.a  CMakeFiles/linedesc.dir/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp.o CMakeFiles/linedesc.dir/src/LSDDetector_custom.cpp.o CMakeFiles/linedesc.dir/src/binary_descriptor_custom.cpp.o CMakeFiles/linedesc.dir/src/binary_descriptor_matcher_custom.cpp.o CMakeFiles/linedesc.dir/src/draw_custom.cpp.o CMakeFiles/linedesc.dir/src/lsd_custom.cpp.o
+/usr/bin/ranlib ../lib/liblinedesc.a

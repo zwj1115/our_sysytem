@@ -1,0 +1,4 @@
+/home/slam/plvs/Thirdparty/chisel_server/build/CMakeFiles/rebuild_cache.dir
+/home/slam/plvs/Thirdparty/chisel_server/build/CMakeFiles/edit_cache.dir
+/home/slam/plvs/Thirdparty/chisel_server/build/CMakeFiles/ChiselNode.dir
+/home/slam/plvs/Thirdparty/chisel_server/build/CMakeFiles/chisel_server.dir

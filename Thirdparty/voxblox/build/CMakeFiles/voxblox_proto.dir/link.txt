@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libvoxblox_proto.a  CMakeFiles/voxblox_proto.dir/Block.pb.cc.o CMakeFiles/voxblox_proto.dir/Layer.pb.cc.o
+/usr/bin/ranlib ../lib/libvoxblox_proto.a

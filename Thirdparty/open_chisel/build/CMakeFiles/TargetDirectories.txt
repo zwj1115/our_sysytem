@@ -1,0 +1,3 @@
+/home/slam/plvs/Thirdparty/open_chisel/build/CMakeFiles/rebuild_cache.dir
+/home/slam/plvs/Thirdparty/open_chisel/build/CMakeFiles/edit_cache.dir
+/home/slam/plvs/Thirdparty/open_chisel/build/CMakeFiles/open_chisel.dir

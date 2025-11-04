@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/Pangolin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/Pangolin/components/pango_python/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/Pangolin/scripts/vcpkg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/Pangolin1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/Pangolin1/components/pango_python/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/Pangolin1/scripts/vcpkg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/rerun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/rerun/build/_deps/catch2-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/rerun/build/_deps/logurugitrepo-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/rerun/build/arrow/src/arrow_cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/rerun/build/arrow/src/arrow_cpp/cpp/submodules/parquet-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thirdparty/rerun/build/arrow/src/arrow_cpp/testing" vcs="Git" />
+  </component>
+</project>

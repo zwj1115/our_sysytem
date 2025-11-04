@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libchisel_server.a  CMakeFiles/chisel_server.dir/src/ChiselServer.cpp.o
+/usr/bin/ranlib ../lib/libchisel_server.a

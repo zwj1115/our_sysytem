@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/types/types_sba.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/types/types_sba.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/types/types_sba.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/types/types_six_dof_expmap.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/types/types_seven_dof_expmap.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/hyper_graph_action.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/hyper_graph_action.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/hyper_graph_action.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/hyper_graph.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/hyper_graph.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/hyper_graph.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/marginal_covariance_cholesky.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/matrix_structure.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/matrix_structure.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/matrix_structure.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/batch_stats.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/batch_stats.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/parameter.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/parameter.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/parameter.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/cache.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/cache.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/cache.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/optimizable_graph.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/optimizable_graph.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/optimizable_graph.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/solver.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/solver.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/solver.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_factory.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/estimate_propagator.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/estimate_propagator.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/estimate_propagator.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/factory.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/factory.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/factory.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/sparse_optimizer.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/hyper_dijkstra.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/hyper_dijkstra.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/hyper_dijkstra.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/parameter_container.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/parameter_container.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/parameter_container.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/optimization_algorithm.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_with_hessian.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_levenberg.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_gauss_newton.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/jacobian_workspace.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/jacobian_workspace.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/jacobian_workspace.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/robust_kernel.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/robust_kernel.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/robust_kernel.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/robust_kernel_factory.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/robust_kernel_factory.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/robust_kernel_factory.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/core/robust_kernel_impl.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/core/robust_kernel_impl.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/core/robust_kernel_impl.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/stuff/timeutil.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/stuff/timeutil.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/stuff/timeutil.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/cc -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -o CMakeFiles/g2o.dir/g2o/stuff/os_specific.c.o   -c /home/slam/plvs/Thirdparty/g2o/g2o/stuff/os_specific.c",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/stuff/os_specific.c"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/stuff/string_tools.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/stuff/string_tools.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/stuff/string_tools.cpp"
+},
+{
+  "directory": "/home/slam/plvs/Thirdparty/g2o/build",
+  "command": "/usr/bin/c++  -DUNIX -Dg2o_EXPORTS -I/home/slam/plvs/Thirdparty/g2o/core -I/home/slam/plvs/Thirdparty/g2o/types -I/home/slam/plvs/Thirdparty/g2o/stuff -I/usr/include/eigen3    -Wall -W -O3 -DNDEBUG -O3 -march=native -fPIC -DNDEBUG -fPIC   -std=gnu++17 -o CMakeFiles/g2o.dir/g2o/stuff/property.cpp.o -c /home/slam/plvs/Thirdparty/g2o/g2o/stuff/property.cpp",
+  "file": "/home/slam/plvs/Thirdparty/g2o/g2o/stuff/property.cpp"
+}
+]

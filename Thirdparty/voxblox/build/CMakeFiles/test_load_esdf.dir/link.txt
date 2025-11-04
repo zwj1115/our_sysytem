@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -O3 -march=native -fPIC -DNDEBUG -O3 -DNDEBUG  -rdynamic CMakeFiles/test_load_esdf.dir/test/test_load_esdf.cc.o  -o test_load_esdf  ../lib/libvoxblox.a ../lib/libvoxblox_proto.a -lprotobuf -lpthread -lglog -lprotobuf -lpthread 

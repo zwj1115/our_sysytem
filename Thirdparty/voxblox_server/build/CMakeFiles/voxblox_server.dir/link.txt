@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libvoxblox_server.a  CMakeFiles/voxblox_server.dir/src/esdf_server.cc.o CMakeFiles/voxblox_server.dir/src/simulation_server.cc.o CMakeFiles/voxblox_server.dir/src/transformer.cc.o CMakeFiles/voxblox_server.dir/src/tsdf_server.cc.o
+/usr/bin/ranlib ../lib/libvoxblox_server.a
